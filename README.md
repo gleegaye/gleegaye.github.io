@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# vCard - Personal portfolio
 
-You can use the [editor on GitHub](https://github.com/gleegaye/gleegaye.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
+![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
+[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
-### Markdown
+## Demo
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
-```markdown
-Syntax highlighted code block
+## Prerequisites
 
-# Header 1
-## Header 2
-### Header 3
+Before you begin, ensure you have met the following requirements:
 
-- Bulleted
-- List
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-1. Numbered
-2. List
+## Installing vCard
 
-**Bold** and _Italic_ and `Code` text
+To install **vCard**, follow these steps:
 
-[Link](url) and ![Image](src)
+Linux and macOS:
+
+```bash
+sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Windows:
 
-### Jekyll Themes
+```bash
+git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gleegaye/gleegaye.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Contact
 
-### Support or Contact
+If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## License
+
+MIT
